@@ -1,0 +1,42 @@
+{
+    "name": "knex-advanced-paginate",
+    "version": "1.0.0",
+    "description": "Advanced pagination utility for Knex.js with search and filter capabilities",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+      "dist"
+    ],
+    "scripts": {
+      "build": "tsc",
+      "prepublishOnly": "npm run build",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "knex",
+      "pagination",
+      "query",
+      "database",
+      "sql",
+      "filter",
+      "search"
+    ],
+    "author": "Sem Sodinal",
+    "license": "MIT",
+    "peerDependencies": {
+      "knex": "^3.1.0"
+    },
+    "devDependencies": {
+      "typescript": "^5.8.3",
+      "knex": "^3.1.0",
+      "@types/node": "^22.14.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/samconndinal/knex-advanced-paginate.git"
+    },
+    "bugs": {
+      "url": "https://github.com/samconndinal/knex-advanced-paginate/issues"
+    },
+    "homepage": "https://github.com/samconndinal/knex-advanced-paginate#readme"
+  }
