@@ -1,6 +1,6 @@
 {
     "name": "knex-advanced-paginate",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Advanced pagination utility for Knex.js with search and filter capabilities",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
