@@ -4,4 +4,4 @@ export {
     type JoinOptions,
     type PaginateOptions,
     type PaginatedResult
-  } from './pagination'
+  } from '../pagination'
